@@ -1,0 +1,50 @@
+footer{
+	
+	color:#757575;
+	margin:0px 175px;
+	padding:50px 45px 0px;
+}
+
+.footer {
+    max-width: 70%;
+    margin: 1rem auto;
+    overflow: auto;
+}
+
+.footer,
+.footer a {
+    color: #999;
+    font-size: 0.9rem;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    text-decoration: underline;
+}
+
+.footer h1 {
+    margin-bottom: 1.5rem;
+    font-size:20px;
+}
+
+.footer .footer-cols {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 2rem;
+}
+
+.footer li {
+    line-height: 1.9;
+}
+
+
+
+.footer ul {
+    list-style: none;
+    margin-bottom: 40px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+}

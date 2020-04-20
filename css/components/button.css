@@ -1,0 +1,36 @@
+.btn-red {
+	background-color: #e50914;
+    line-height: normal;
+    padding: 7px 17px;
+    font-weight: 400;
+    font-size: 1rem;
+    float: right;
+    text-decoration: none;
+    color: white;
+    height: 45px;
+    margin-left:0px;
+
+}
+
+.btn-red:hover {
+	color: white;
+	text-decoration: none;
+
+}
+
+#TRY{
+    padding:10px 10px;
+    font-size:32px;
+    display: inline-block;
+    width:200px;
+    border-radius:2px;
+    vertical-align: middle;
+    text-align: center;
+    height: 65px;
+    margin-top:40px;
+}
+
+#identify{
+    border-radius:4px;
+    font-size:20px;
+}
